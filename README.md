@@ -30,7 +30,7 @@ Go to Sketch > Include Library > Manage Libraries and search for URLEncode libra
 
 
 
-### Getting Whatabot API key
+### Getting CallMeBot WhatsApp API Key
 Setup:
 You need to get the apikey form the bot before using the API:
 1. Add the phone number **+34 694 242 562** into your Phone Contacts
